@@ -13,5 +13,5 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/{A-Yahia}/count.svg?color=00ff00&style=flat-square&theme=dark" />
 </div>
