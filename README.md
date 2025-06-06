@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center"> 
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Abdelrhman+Yahia+Soliman!;" alt="Animated typing text" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+\Abdelrhman+Yahia+Soliman!;" alt="Animated typing text" />
 </h1>
 
 <h3 align="center">Deep Learning, Computer Vision, Signal processing researcher specializing in non-invasive health monitoring</h3>
