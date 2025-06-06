@@ -1,3 +1,4 @@
+<!---
 - 👋 Hi, I’m @A-Yahia
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -6,7 +7,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
+
 A-Yahia/A-Yahia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
