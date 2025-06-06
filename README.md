@@ -39,13 +39,12 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" target="_blank" />
   </a>
 </div>
-\## 🛠️ Languages and Tools
-
+## 🛠️ Languages and Tools
 <br>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,matlab,cpp,c,java" />
-  <img src="https://skillicons.dev/icons?i=Ai, deeplearning, keras,tensorflow,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=ai,deeplearning,keras,tensorflow,numpy,pandas,matplotlib,seaborn,scikitlearn" />
 </p>
 
 <hr>
