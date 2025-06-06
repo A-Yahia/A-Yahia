@@ -18,6 +18,12 @@ You can click the Preview link to take a look at your changes.
 </h1>
 
 
+
+<hr>
+
+
+<h3 align="center">Deep Learning, Computer Vision, Signal processing researcher specializing in non-invasive health monitoring</h3>
+
 - 💬 Ask me about **Python, Deep Learning, Signal Processing...or anything [here](https://github.com/{A-Yahia}/{A-Yahia}/issues)**
 
 <br>
@@ -32,16 +38,20 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.researchgate.net/profile/Abdelrhman-Yahia-3" target="_blank">
     <img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" target="_blank" />
   </a>
-  <a href="https://scholar.google.com/citations?hl=en&user=a615v9sAAAA" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=white" target="_blank" />
-  </a>
 </div>
+\## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,matlab,c++,c,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
+</p>
 
 <hr>
 
-
-<h3 align="center">Deep Learning, Computer Vision, Signal processing researcher specializing in non-invasive health monitoring</h3>
 <div align="center"> 
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/{A-Yahia}/count.svg?color=00ff00&style=flat-square&theme=dark" />
 </div>
+
