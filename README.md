@@ -44,8 +44,8 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,matlab,c++,c,java" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=python,matlab,cpp,c,java" />
+  <img src="https://skillicons.dev/icons?i=Ai, deeplearning, keras,tensorflow,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
 </p>
 
 <hr>
