@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,matlab,cpp,c,java" />
   <br>
-  <img src="https://skillicons.dev/icons?i=ai,tensorflow,keras,pytorch,numpy,pandas,matplotlib,seaborn,scikit" />
+  <img src="https://skillicons.dev/icons?i=ai,tensorflow,pytorch,numpy,pandas,matplotlib,seaborn,scikit" />
 </p>
 
 <hr>
