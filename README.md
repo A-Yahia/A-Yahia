@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://profile-counter.glitch.me/{A-Yahia}/count.svg?color=00ff00&style=flat-square&theme=dark" />
 </div>
 
-  <img src="[https://github.com/{USERNAME}/{USERNAME}/blob/main/software-developer.png](https://github.com/A-Yahia/A-Yahia/blob/main/ChatGPT%20Image%20Jun%206%2C%202025%2C%2009_02_14%20PM.png)" alt="Banner of a developer sitting in front of a desk">
+  <img src="[https://github.com/A-Yahia/A-Yahia/blob/main/ChatGPT%20Image%20Jun%206%2C%202025%2C%2009_02_14%20PM.png]" alt="Banner of a developer sitting in front of a desk">
 
   <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Abdelrhman+Yahia!;" alt="Animated typing text" />
