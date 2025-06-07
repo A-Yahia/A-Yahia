@@ -1,20 +1,25 @@
 <div align="center">
   <img src="https://github.com/A-Yahia/A-Yahia/blob/main/ChatGPT%20Image%20Jun%206%2C%202025%2C%2009_02_14%20PM.png?raw=true" 
-       alt="Developer working at desk" 
+       alt="Non-invasive Health monitoring" 
        width="45%"
-       style="border-radius: 10px">
+       style="border-radius: 8px; margin-bottom: 20px;">
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;I'm+Abdelrhman+Yahia!;" 
-       alt="Typing animation">
+<h1 align="center" style="font-family: 'Georgia', serif; font-weight: 500; letter-spacing: 0.5px; color: #1a365d;">
+  Abdelrhman Y. Soliman
 </h1>
 
-<h3 align="center">Deep Learning | Computer Vision | Signal Processing Researcher<br>Specializing in Non-Invasive Health Monitoring</h3>
+<h3 align="center" style="font-family: 'Georgia', serif; font-weight: 400; color: #2d3748; margin-top: -10px;">
+  Deep Learning | Computer Vision | Signal Processing  Researcher
+</h3>
 
-<hr>
+<p align="center" style="font-family: 'Georgia', serif; font-weight: 300; color: #4a5568; margin-top: -5px;">
+  Specializing in Non-Invasive Health Monitoring
+</p>
 
-<div align="center">
+<hr style="border: 0.5px solid #e2e8f0; width: 60%; margin: 20px auto;">
+
+<div align="center" style="margin: 20px 0;">
   <a href="mailto:abdelrahman.yahia@eng.aswu.edu.eg">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
@@ -24,87 +29,87 @@
   <a href="https://www.researchgate.net/profile/Abdelrhman-Yahia-3" target="_blank">
     <img src="https://img.shields.io/badge/Research_Gate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate">
   </a>
-  <!---a href="https://calendly.com/your-link" target="_blank">
-    <img src="https://img.shields.io/badge/Schedule_Meeting-008080?style=for-the-badge&logo=googlechat&logoColor=white" alt="Calendly">
-  </a---!>
-</div>
-
-<div align="center">
-  <a href="https://leetcode.com/abdelrahman_yahia" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode">
-  </a>
-  <a href="https://codeforces.com/profile/a_yahia" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" alt="CodeForces">
+  <a href="https://scholar.google.com/citations?user=a615v9sAAAAJ" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar">
   </a>
 </div>
 
-<h2 align="center">🔬 Current Research</h2>
-<p align="center">Non-invasive blood glucose monitoring using multimodal signal processing<br>and deep learning techniques</p>
-
-<h2 align="center">🛠️ Languages and Tools</h2>
-
-<div align="center">
-  <h3>Core Technologies</h3>
-  <img src="https://skillicons.dev/icons?i=python,matlab,cpp,c,java" alt="Core technologies" />
-  
-  <h3>ML & CV Tools</h3>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" alt="ML tools" />
-  
-  <h3>Development & Ops</h3>
-  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,linux,bash" alt="DevOps tools" />
+<div align="center" style="margin-bottom: 30px;">
+  <a href="https://github.com/A-Yahia?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_Projects-2B6CB0?style=flat-square&logo=github&logoColor=white" alt="Explore Projects">
+  </a>
 </div>
 
-<h2 align="center">📚 Research Interests</h2>
-<div align="center">
-  <table align="center">
+## 🔬 Research Focus
+
+<p align="center" style="font-family: 'Georgia', serif; font-size: 18px;">
+  Developing non-invasive health monitoring solutions using deep learning techniques to enable accessible healthcare diagnostics.
+</p>
+
+<div align="center" style="margin: 30px 0;">
+  <table style="border-collapse: collapse; width: 80%; max-width: 800px; font-family: 'Georgia', serif;">
     <tr>
-      <th>Area</th>
-      <th>Key Technologies</th>
+      <th style="border: 1px solid #cbd5e0; padding: 12px; background-color: #ebf4ff; text-align: left;">Research Area</th>
+      <th style="border: 1px solid #cbd5e0; padding: 12px; background-color: #ebf4ff; text-align: left;">Methodologies</th>
     </tr>
     <tr>
-      <td>Non-invasive Health Monitoring</td>
-      <td>remote PPG (rPPG),PPG, EEG, ECG</td>
+      <td style="border: 1px solid #cbd5e0; padding: 12px;">Non-invasive Vital Signs Monitoring</td>
+      <td style="border: 1px solid #cbd5e0; padding: 12px;">PPG Analysis, EEG Analysis, CNN-RNN Networks</td>
     </tr>
     <tr>
-      <td>Physiological Signal Analysis</td>
-      <td>Wavelet Transforms, Scattering transfoorm, CNN-RNN</td>
+      <td style="border: 1px solid #cbd5e0; padding: 12px;">Physiological Signal Processing</td>
+      <td style="border: 1px solid #cbd5e0; padding: 12px;">Wavelet Transforms, Time-Frequency Analysis, Noise Reduction</td>
     </tr>
     <tr>
-      <td>Multimodal Fusion</td>
-      <td>Attention Mechanism</td>
+      <td style="border: 1px solid #cbd5e0; padding: 12px;">Health Parameter Estimation</td>
+      <td style="border: 1px solid #cbd5e0; padding: 12px;">Regression Models, Attention Mechanisms, Transfer Learning</td>
     </tr>
   </table>
 </div>
 
-<h2 align="center">⭐ Featured Projects</h2>
-<div align="center">
-  <a href="https://github.com/A-Yahia/your-project-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=A-Yahia&repo=your-project-repo&theme=dark&show_owner=true" width="45%" />
-  </a>
-  <a href="https://github.com/A-Yahia/another-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=A-Yahia&repo=another-project&theme=dark&show_owner=true" width="45%" />
-  </a>
+## 🛠️ Technical Proficiencies
+
+<div align="center" style="margin: 30px 0;">
+  <h3 style="font-family: 'Georgia', serif; color: #2b6cb0;">Core Languages & Frameworks</h3>
+  <img src="https://skillicons.dev/icons?i=python,matlab,cpp,pytorch,tensorflow" alt="Core technologies" style="margin: 10px;"/>
+  
+  <h3 style="font-family: 'Georgia', serif; color: #2b6cb0; margin-top: 25px;">Signal & Image Processing</h3>
+  <img src="https://skillicons.dev/icons?i=opencv,ai,raspberrypi" alt="Processing tools" style="margin: 10px;"/>
+  
+  <h3 style="font-family: 'Georgia', serif; color: #2b6cb0; margin-top: 25px;">Research & Development</h3>
+  <img src="https://skillicons.dev/icons?i=git,latex,docker,linux,windows" alt="Research tools" style="margin: 10px;"/>
 </div>
 
-<h2 align="center">📈 Activity & Stats</h2>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=A-Yahia&theme=github-dark&hide_border=true" alt="Activity Graph" />
+## 📚 Featured Publications & Projects
+
+<div align="center" style="margin: 30px 0; font-family: 'Georgia', serif;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 1000px; margin: 0 auto;">
+    <div style="background: #f7fafc; border-radius: 8px; padding: 20px; width: 300px; text-align: left; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
+      <h4 style="color: #2b6cb0; margin-top: 0;">📄 Non-Invasive Glucose Monitoring</h4>
+      <p style="font-size: 15px;">Deep learning approach for blood glucose estimation using photoplethysmography signals</p>
+      <a href="https://ieeexplore.ieee.org/document/10921552" style="color: #2b6cb0; text-decoration: none; font-size: 14px;">View Publication →</a>
+    </div>
+
 </div>
 
-<br>
+## 📈 Research Activity
 
-<div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=A-Yahia&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="GitHub Stats" />
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=A-Yahia&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Streak Stats" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=A-Yahia&theme=transparent&layout=compact&hide=html,css,scss&langs_count=8&border_radius=10&locale=en" alt="Top Languages" />
+<div align="center" style="margin: 40px 0;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=A-Yahia&theme=github-light&hide_border=true&bg_color=ffffff&color=4a5568&line=2b6cb0" alt="Research Activity" style="max-width: 800px; width: 90%;">
 </div>
 
-<div align="center">
-  <br>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 1000px; margin: 0 auto;">
+  <img width="380" src="https://github-readme-stats.vercel.app/api?username=A-Yahia&theme=default&count_private=true&show_icons=true&include_all_commits=true&rank_icon=github&line_height=24&hide_title=true&hide_border=true" alt="Research Contributions" />
+  
+  <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs?username=A-Yahia&theme=default&layout=compact&langs_count=8&hide_title=true&hide_border=true" alt="Research Languages" />
+</div>
+
+
+<div align="center" style="margin: 30px 0; font-family: 'Georgia', serif; color: #4a5568; font-size: 14px;">
+    <br>
   <a href="https://github.com/A-Yahia?tab=repositories">
     <img src="https://custom-icon-badges.demolab.com/badge/Explore_Projects-8A2BE2?style=for-the-badge&logo=repo" alt="Explore Projects" />
   </a>
-    <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/A-Yahia/count.svg" />
+  <br><br>
+  <p>Visitor count: <img src="https://profile-counter.glitch.me/A-Yahia/count.svg" style="vertical-align: middle;" /></p>
 </div>
-
