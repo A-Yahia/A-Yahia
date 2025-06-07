@@ -41,9 +41,11 @@ You can click the Preview link to take a look at your changes.
 </div>
 ## 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,matlab,cpp,c,java" />
+  <img src="https://skillicons.dev/icons?i=python,matlab,cpp,c,java,octav" />
   <br>
-  <img src="https://skillicons.dev/icons?i=ai,tensorflow,pytorch,numpy,pandas,matplotlib,seaborn,scikit" />
+  <img src="https://skillicons.dev/icons?i=ai,tensorflow,pytorch,opencv,scikit" />
+    <br>
+  <img src="https://skillicons.dev/icons?i=git,latex,raspberrypi,redhat,regex" />
 </p>
 
 <hr>
