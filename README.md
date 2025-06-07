@@ -48,7 +48,7 @@
     <a href="https://github.com/A-Yahia/A-Yahia/issues">Open a discussion here</a>
   </p>
 </div>
-## ⚡️ Stats
+<h2>⚡️ Stats</h2>
 
 <br>
 
