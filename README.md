@@ -43,9 +43,12 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,matlab,cpp,c,java,octav" />
   <br>
-  <img src="https://skillicons.dev/icons?i=ai,tensorflow,pytorch,opencv,scikit" />
+  <img src="https://skillicons.dev/icons?i=ai,tensorflow,pytorch,opencv,sklearn" />
     <br>
-  <img src="https://skillicons.dev/icons?i=git,latex,raspberrypi,redhat,regex" />
+  <img src="https://skillicons.dev/icons?i=git,latex,raspberrypi,regex" />
+   <br>
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,redhat,bash" />
+</p
 </p>
 
 <hr>
