@@ -36,9 +36,10 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,matlab,cpp,c,java" alt="Programming languages" />
   <br>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,ai,sklearn" alt="ML frameworks" />
+  <img src="https://skillicons.dev/icons?i=ai,tensorflow,pytorch,sklearn,Keras," alt="ML frameworks" />
+   <img src="https://skillicons.dev/icons?i=opencv,pytorch,cuda,dlib,pillow" />
   <br>
-  <img src="https://skillicons.dev/icons?i=git,latex,raspberrypi,linux,bash" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,jupyter,latex,raspberrypi,linux,bash" alt="Tools" />
 </p>
 
 <div align="center">
