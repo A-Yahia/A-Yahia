@@ -4,11 +4,15 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/A-Yahia/A-Yahia/blob/main/ChatGPT%20Image%20Jun%206%2C%202025%2C%2009_02_14%20PM.png?raw=true" alt="Developer working at desk" width="100%">
+  <img src="https://github.com/A-Yahia/A-Yahia/blob/main/ChatGPT%20Image%20Jun%206%2C%202025%2C%2009_02_14%20PM.png?raw=true" 
+       alt="Developer working at desk" 
+       width="60%"
+       style="border-radius: 10px">
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;I'm+Abdelrhman+Yahia!;" alt="Typing animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;I'm+Abdelrhman+Yahia!;" 
+       alt="Typing animation">
 </h1>
 
 <h3 align="center">Deep Learning | Computer Vision | Signal Processing Researcher<br>Specializing in Non-Invasive Health Monitoring</h3>
