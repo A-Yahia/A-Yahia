@@ -74,7 +74,7 @@
   <img src="https://skillicons.dev/icons?i=python,matlab,cpp,pytorch,tensorflow" alt="Core technologies" style="margin: 10px;"/>
   
   <h3 style="font-family: 'Georgia', serif; color: #2b6cb0; margin-top: 25px;">Signal & Image Processing</h3>
-  <img src="https://skillicons.dev/icons?i=opencv,ai,raspberrypi" alt="Processing tools" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=opencv,raspberrypi" alt="Processing tools" style="margin: 10px;"/>
   
   <h3 style="font-family: 'Georgia', serif; color: #2b6cb0; margin-top: 25px;">Research & Development</h3>
   <img src="https://skillicons.dev/icons?i=git,latex,docker,linux,windows" alt="Research tools" style="margin: 10px;"/>
