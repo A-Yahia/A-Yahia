@@ -1,9 +1,9 @@
-<div align="center">
+<!---1div align="center">
   <img src="https://github.com/A-Yahia/A-Yahia/blob/main/ChatGPT%20Image%20Jun%206%2C%202025%2C%2009_02_14%20PM.png?raw=true" 
        alt="Non-invasive Health monitoring" 
        width="45%"
        style="border-radius: 8px; margin-bottom: 20px;">
-</div>
+</div-->
 
 <h1 align="center" style="font-family: 'Georgia', serif; font-weight: 500; letter-spacing: 0.5px; color: #1a365d;">
   Abdelrhman Y. Soliman
